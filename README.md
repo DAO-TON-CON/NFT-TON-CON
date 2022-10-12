@@ -36,7 +36,7 @@ Website: [toncon.space](https://toncon.space)
 ## General metadata fot The Open Network
 ```js
 const namePrefix = "TON CON NFT";
-const description = "This is a collection of 500 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Network in Meta TON CON 2022.";
+const description = "This is a collection of 510 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Network in Meta TON CON 2022.";
 ```
 
 ```js
@@ -111,7 +111,7 @@ Type: linear Gradient
     White
 
 ### Filament
-![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/Vortex.png)
+![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/img/Vortex.png)
 
     500 Uniq Vortex
     1   Diamond
