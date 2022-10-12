@@ -76,12 +76,62 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 | Year | Amount | Price | 
 |-|-|-|
-|2022 | | |
+|2022 |510 | |
 | | | |
 
 ## Layers
 * Background
-    * ![Black Pearl #1B1F23](/layers/Background/Black%231.png)
+    * [Black Pearl #1B1F23](/layers/Background/Black%231.png)
+* Fingerprint
+
+| Name | Address |
+| - | - |
+| Fingerprint #73 |ton://EQCxnfPWssn9C_feb2PfvUrado6f31xeCoN9KPDtNufa8Oc4|
+| Fingerprint #74 |ton://EQACJitLkjd2KegszHiALXybYEiHsoU8Df1lMpNpF-IqAo3h
+| Fingerprint #75 |ton://EQCYAfm38HMCIRb1F5bFeJ0g28l0uqMEoM4lE1qDH9xqvdcQ|
+|Fingerprint #76 |ton://EQAjLErNWdKfpJFQMyx-N9Atwk_LRUR255k33IC4EAWYgZZA|
+|Fingerprint #77 |ton://EQCbZFNrM_EbBNMlmfzYXk_4ugY-rPZIH-348UoMH3v0ISnl|
+|Fingerprint #78 |ton://EQABQgd2230PfUSx7ZjKbYhsAvdgaTgvrc4eN0OICMfX5zrT|
+|Fingerprint #79 |ton://EQDqKnyFJ11DrFSNcz74KUGFmKETdkbxs4gu-LweBPwNTmxU|
+|Fingerprint #80 |ton://EQA0V6FdRRJ_rwss5VRInR4HivBjwIQ7buUOgv6Dk3fa-7lO|
+|Fingerprint #81 |ton://EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN|
+
+
+### Color
+    DodgerBlue
+    GoldenYellow
+    Green
+    Indigo
+    Ochre
+    Orange
+    Red
+    Royal Blue
+    White
+
+### Vortex
+    500 Uniq Vortex
+    Diamond
+    Drop
+    Heart
+    Kite
+    Octagon
+    Pentagon
+    Rhombus
+    Sims
+    Square
+
+### Svet Jetton
+    200 Svet on 5%
+    100 Svet on 5%
+    50 Svet on 90%
+
+### Donation Jetton
+    500 DON on 85%
+    900 DON on 5%
+    1000 DON on 10%
+
+### CON Jetton
+    200 CON on 10%
 
 
 ## Rarity Generator
