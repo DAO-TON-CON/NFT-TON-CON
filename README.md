@@ -86,18 +86,20 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 | Name | Address |
 | - | - |
-| Fingerprint #73 |ton://EQCxnfPWssn9C_feb2PfvUrado6f31xeCoN9KPDtNufa8Oc4|
-| Fingerprint #74 |ton://EQACJitLkjd2KegszHiALXybYEiHsoU8Df1lMpNpF-IqAo3h
-| Fingerprint #75 |ton://EQCYAfm38HMCIRb1F5bFeJ0g28l0uqMEoM4lE1qDH9xqvdcQ|
-|Fingerprint #76 |ton://EQAjLErNWdKfpJFQMyx-N9Atwk_LRUR255k33IC4EAWYgZZA|
-|Fingerprint #77 |ton://EQCbZFNrM_EbBNMlmfzYXk_4ugY-rPZIH-348UoMH3v0ISnl|
-|Fingerprint #78 |ton://EQABQgd2230PfUSx7ZjKbYhsAvdgaTgvrc4eN0OICMfX5zrT|
-|Fingerprint #79 |ton://EQDqKnyFJ11DrFSNcz74KUGFmKETdkbxs4gu-LweBPwNTmxU|
-|Fingerprint #80 |ton://EQA0V6FdRRJ_rwss5VRInR4HivBjwIQ7buUOgv6Dk3fa-7lO|
-|Fingerprint #81 |ton://EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN|
+| Fingerprint #73 |[EQCxnfPWssn9C_feb2PfvUrado6f31xeCoN9KPDtNufa8Oc4](ton://EQCxnfPWssn9C_feb2PfvUrado6f31xeCoN9KPDtNufa8Oc4)|
+| Fingerprint #74 |[EQACJitLkjd2KegszHiALXybYEiHsoU8Df1lMpNpF-IqAo3h](ton://EQACJitLkjd2KegszHiALXybYEiHsoU8Df1lMpNpF-IqAo3h)
+| Fingerprint #75 |[EQCYAfm38HMCIRb1F5bFeJ0g28l0uqMEoM4lE1qDH9xqvdcQ](ton://EQCYAfm38HMCIRb1F5bFeJ0g28l0uqMEoM4lE1qDH9xqvdcQ)|
+|Fingerprint #76 |[EQAjLErNWdKfpJFQMyx-N9Atwk_LRUR255k33IC4EAWYgZZA](ton://EQAjLErNWdKfpJFQMyx-N9Atwk_LRUR255k33IC4EAWYgZZA)|
+|Fingerprint #77 |[EQCbZFNrM_EbBNMlmfzYXk_4ugY-rPZIH-348UoMH3v0ISnl](ton://EQCbZFNrM_EbBNMlmfzYXk_4ugY-rPZIH-348UoMH3v0ISnl)|
+|Fingerprint #78 |[EQABQgd2230PfUSx7ZjKbYhsAvdgaTgvrc4eN0OICMfX5zrT](ton://EQABQgd2230PfUSx7ZjKbYhsAvdgaTgvrc4eN0OICMfX5zrT)|
+|Fingerprint #79 |[EQDqKnyFJ11DrFSNcz74KUGFmKETdkbxs4gu-LweBPwNTmxU](ton://EQDqKnyFJ11DrFSNcz74KUGFmKETdkbxs4gu-LweBPwNTmxU)|
+|Fingerprint #80 |[EQA0V6FdRRJ_rwss5VRInR4HivBjwIQ7buUOgv6Dk3fa-7lO](ton://EQA0V6FdRRJ_rwss5VRInR4HivBjwIQ7buUOgv6Dk3fa-7lO)|
+|Fingerprint #81 |[EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN](ton://EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN)|
 
 
 ### Color
+Type: linear Gradient
+
     DodgerBlue
     GoldenYellow
     Green
@@ -109,29 +111,45 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
     White
 
 ### Vortex
+![Vortex](/Vortex.png)
+
     500 Uniq Vortex
-    Diamond
-    Drop
-    Heart
-    Kite
-    Octagon
-    Pentagon
-    Rhombus
-    Sims
-    Square
+    1   Diamond
+    1   Drop
+    1   Heart
+    1   Kite
+    1   Octagon
+    1   Pentagon
+    1   Rhombus
+    1   Sims
+    1   Square
 
-### Svet Jetton
-    200 Svet on 5%
-    100 Svet on 5%
-    50 Svet on 90%
+### Exchange
+|Jetton|Address|
+|-|-|
+| Donation | [EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR](ton://EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR)|
+    
+| Amount | Rarity |
+|-|-|
+| 500 DON | 85% |
+| 900 DON | 5% |
+| 1000 DON | 10% |
 
-### Donation Jetton
-    500 DON on 85%
-    900 DON on 5%
-    1000 DON on 10%
+|Svet Jetton| [EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh](ton://EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh)|
+|-|-|
 
-### CON Jetton
-    200 CON on 10%
+| Amount | Rarity |
+|-|-|
+|200 Svet |5%|
+|100 Svet |5%|
+|50 Svet |90%|
+
+| CON Jetton | [EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-](ton://EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-) |
+|-|-|
+
+| Amount | Rarity |
+|-|-|
+|200 CON|10%|
 
 
 ## Rarity Generator
@@ -139,4 +157,4 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 Jetton TON CON Ecosystem: [EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe](ton://EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe)
 
 ## License
-Creative Commons Zero v1.0 Universal
+[Creative Commons Zero v1.0 Universal](/LICENSE)
