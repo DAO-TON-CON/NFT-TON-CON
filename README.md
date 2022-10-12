@@ -76,7 +76,7 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 | Year | Amount | Price | 
 |-|-|-|
-|2022 |510 | |
+|2022 |510 |161.8 TON |
 | | | |
 
 ## Layers
@@ -114,6 +114,8 @@ Type: linear Gradient
 ![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/img/Vortex.png)
 
     500 Uniq Vortex
+    288 3D Diamond
+    100 Rare Vortex
     1   Diamond
     1   Drop
     1   Heart
@@ -123,6 +125,7 @@ Type: linear Gradient
     1   Rhombus
     1   Sims
     1   Square
+    1   CON
 
 ### Allocation
 |Jetton|Address|
@@ -131,23 +134,25 @@ Type: linear Gradient
     
 | Amount | Rarity |
 |-|-|
-| 500 DON | 85% |
-| 900 DON | 5% |
-| 1000 DON | 10% |
+| 1122 DON | 100% |
 
 |Svet Jetton| [EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh](ton://EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh)|
 |-|-|
 
 | Amount | Rarity |
 |-|-|
-|1000 Svet |100%|
+|2100 Svet |55|
+|1300 Svet|89 |
+|650 Svet|144 |
+|400 Svet|233 |
+|250 Svet|377 |
 
 | CON Jetton | [EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-](ton://EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-) |
 |-|-|
 
 | Amount | Rarity |
 |-|-|
-|20 CON|10%|
+|10 CON|898|
 
 ## Metadata
 ```json
