@@ -4,12 +4,27 @@ This is a collection of 500 unique digital NFTs created by TON CON 2022. Now you
 # TON CON 2022
 Website: [toncon.space](https://toncon.space)
 
+## Installation
+
+```
+yarn install
+```
+or
+```
+npm install
+```
+
 ## Collection 
 
 | Year | Amount | Price | 
 |-|-|-|
 |2022 | | |
 | | | |
+
+## Layers
+* Background
+    * ![Black Pearl #1B1F23](/layers/Background/Black%231.png)
+
 
 ## Rarity Generator
 
