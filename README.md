@@ -72,7 +72,6 @@ module.exports = {
 ## Usage
 The NFT layers are placed as folders in the `layers` directory. You can name the content whatever you like, as long as the rarity weight is attached to the filename, like this: `fingerprint#70.png`. Optionally, you can change the `#` delimiter to whatever you would like to use in the `rarityDelimiter` variable in the `src/config.js` file.
 
-
 ## Collection 
 
 | Year | Amount | Price | 
