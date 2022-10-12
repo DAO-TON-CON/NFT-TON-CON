@@ -81,7 +81,7 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 ## Layers
 * Background
-    * [Black Pearl #1B1F23](/layers/Background/Black%231.png)
+    * [Black Pearl #1B1F23](/https://raw.githubusercontent.com/DAO-TON-CON/NFT-TON-CON/main/layers/Background/Black%231.png)
 * Fingerprint
 
 | Name | Address |
