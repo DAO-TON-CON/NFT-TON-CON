@@ -97,7 +97,7 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 |Fingerprint #81 |[EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN](ton://EQDP_7W_sb_oHUHB-GhFK4Wfh9WJJs6vz9-yiyZSpFChiDwN)|
 
 
-### Color
+### Glow
 Type: linear Gradient
 
     DodgerBlue
@@ -110,7 +110,7 @@ Type: linear Gradient
     Royal Blue
     White
 
-### Vortex
+### Filament
 ![Vortex](/Vortex.png)
 
     500 Uniq Vortex
@@ -140,21 +140,99 @@ Type: linear Gradient
 
 | Amount | Rarity |
 |-|-|
-|200 Svet |5%|
-|100 Svet |5%|
-|50 Svet |90%|
+|1000 Svet |100%|
 
 | CON Jetton | [EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-](ton://EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-) |
 |-|-|
 
 | Amount | Rarity |
 |-|-|
-|200 CON|10%|
+|20 CON|10%|
 
+## Metadata
+```json
+{
+  "name": "TON CON NFT #1",
+  "description": "This is a 1 of 510 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Network in Meta TON CON 2022",
+  "image": "ipfs://address_ipfs/1.png",
+  "dna": "7bb472766ab7e58234d725885406925ad24df32d",
+  "edition": 1,
+  "date": 1665586159763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Fingerprint #73",
+      "value": "EQCxnfPWssn9C_feb2PfvUrado6f31xeCoN9KPDtNufa8Oc4"
+    },
+    {
+      "trait_type":"Count",
+      "value":"7"
+    },
+    {
+      "trait_type":"Area",
+      "value":"9.52480"
+    },
+    {
+      "trait_type":"Perimeter",
+      "value":"2000.66403"
+    },
+    {
+      "trait_type":"Major",
+      "value":"104.45772"
+    },
+    {
+      "trait_type":"Minor",
+      "value":"55.46144"
+    },
+    {
+      "trait_type":"Angle",
+      "value":"72.64080"
+    },
+    {
+      "trait_type":"Circularity",
+      "value":"0.43472"},
+    {
+      "trait_type":"Integrated density","value":"3469748.57143"
+    },
+    {
+      "trait_type":"Skewness",
+      "value":"-9.96082"
+    },
+    {
+      "trait_type":"Kurtosis",
+      "value":"97.21802"}
+    {
+      "trait_type": "Filament",
+      "value": "Vortex #221"
+    },
+    {
+      "trait_type": "Svet",
+      "value": "1000"
+    },
+    {
+      "trait_type": "Donation",
+      "value": "500"
+    },
+    {
+      "trait_type": "CON",
+      "value": "20"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Royal Blue"
+    }
+  ],
+  "license":"ipfs://bafkreihj7iub3fhmhq6jn62noukt5wxn3gv6bvcg7wmt6ywvlurefezckq",
+  "theme": {"main":"#2962ff"}
+}
+```
 
 ## Rarity Generator
 
-Jetton TON CON Ecosystem: [EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe](ton://EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe)
+TON CON Ecosystem: [EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe](ton://transfer/EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe?amount=100000000000)
 
 ## License
 [Creative Commons Zero v1.0 Universal](/LICENSE)
