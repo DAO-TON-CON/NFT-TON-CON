@@ -111,7 +111,7 @@ Type: linear Gradient
     White
 
 ### Filament
-![Vortex](/Vortex.png)
+![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/Vortex.png)
 
     500 Uniq Vortex
     1   Diamond
@@ -124,7 +124,7 @@ Type: linear Gradient
     1   Sims
     1   Square
 
-### Exchange
+### Allocation
 |Jetton|Address|
 |-|-|
 | Donation | [EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR](ton://EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR)|
