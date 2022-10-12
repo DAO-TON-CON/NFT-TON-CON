@@ -1,5 +1,5 @@
 # NFT TON CON
-This is a collection of 510 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Web in Meta TON CON 2022.
+This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Web in Meta TON CON 2022.
 
 ## TON CON 2022
 __TON CON 2022 will take place on November 12-13.__ 
@@ -36,7 +36,7 @@ Website: [toncon.space](https://toncon.space)
 ## General metadata fot The Open Network
 ```js
 const namePrefix = "TON CON NFT";
-const description = "This is a collection of 510 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Network in Meta TON CON 2022.";
+const description = "This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Network in Meta TON CON 2022.";
 ```
 
 ```js
@@ -76,7 +76,7 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 | Year | Amount | Price | 
 |-|-|-|
-|2022 |510 |161.8 TON |
+|2022 | 898 |161.80 TON |
 | | | |
 
 ## Layers
