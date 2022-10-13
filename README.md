@@ -114,27 +114,30 @@ Type: linear Gradient
 |-|-|
 | Donation | [EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR](ton://EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR)|
     
-| Amount | Rarity |
+| Reward | Amount |
 |-|-|
-| 1122 DON | 100% |
+| 1122 DON | 892 |
+|Total|1 000 824|
 
 |Svet Jetton| [EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh](ton://EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh)|
 |-|-|
 
-| Amount | Rarity |
-|-|-|
-|2100 Svet |55|
-|1300 Svet|89 |
-|650 Svet|144 |
-|400 Svet|233 |
-|250 Svet|377 |
+| Reward | Amount | Total |
+|-|-|-|
+|55 Svet |383|21 035|
+|89 Svet|255 |22 695|
+|144 Svet|118 |16 992|
+|233 Svet|88 |20 504|
+|377 Svet|48 |18 096|
+|Total||99 322 Svet|
 
 | CON Jetton | [EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-](ton://EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-) |
 |-|-|
 
-| Amount | Rarity |
+| Reward | Amount |
 |-|-|
-|10 CON|898|
+|10 CON|892|
+|Total|8 920 CON|
 
 ## Metadata
 ```json
