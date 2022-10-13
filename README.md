@@ -114,15 +114,15 @@ Type: linear Gradient
 |-|-|
 | Donation | [EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR](ton://EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR)|
     
-| Reward | Amount |
+| Reward | NFT |
 |-|-|
 | 1122 DON | 892 |
-|Total|1 000 824|
+|Total|1 000 824 DON|
 
 |Svet Jetton| [EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh](ton://EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh)|
 |-|-|
 
-| Reward | Amount | Total |
+| Reward | NFT | Total |
 |-|-|-|
 |55 Svet |383|21 035|
 |89 Svet|255 |22 695|
@@ -134,7 +134,7 @@ Type: linear Gradient
 | CON Jetton | [EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-](ton://EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-) |
 |-|-|
 
-| Reward | Amount |
+| Reward | NFT |
 |-|-|
 |10 CON|892|
 |Total|8 920 CON|
