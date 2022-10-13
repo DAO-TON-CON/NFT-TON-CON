@@ -239,5 +239,13 @@ Type: linear Gradient
 
 TON CON Ecosystem: [EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe](ton://transfer/EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe?amount=100000000000)
 
+## Collection 
+
+Content `ipfs://bafybeihob5aflt3hknzi77fslaeizecfdubhitmclgjjakpcqkyzoht2vm/`
+
+Metadata `ipfs://bafkreic2jvoey7yx3uj4cv3w42al3yjixw32jbsxtvazdv7fngscvl2z5u/?filename=metadata.json`
+
+
+
 ## License
 [Creative Commons Zero v1.0 Universal](/LICENSE)
