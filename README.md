@@ -1,6 +1,8 @@
 # NFT TON CON
 This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Web in Meta TON CON 2022.
 
+[TON CON NFT Collection](https://getgems.io/collection/EQCOEa8iUcBeV0v-_4Hg0-_3t3c9ypRScZ_lhqSdIgqcp2wh)
+
 ## TON CON 2022
 __TON CON 2022 will take place on November 12-13.__ 
 
