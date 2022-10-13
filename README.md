@@ -26,8 +26,8 @@ The main component of the event will be the combination of the concept exhibitio
     ✨ Exhibition with show performances - Art  space
     ✨ Networking zone
     ✨ NFT marketplaces
-    ✨GameFi
-    ✨ Press zone - an opportunity to tell about your project to the entire Web3.0 audience.
+    ✨ GameFi
+    ✨ Press zone - an opportunity to tell about your project to the entire Web3 audience.
 
 Metaverse
 
@@ -48,28 +48,6 @@ const format = {
   width: 1000,
   height: 1000,
   smoothing: false,
-};
-```
-
-```js
-module.exports = {
-  format,
-  baseUri,
-  description,
-  background,
-  uniqueDnaTorrance,
-  layerConfigurations,
-  rarityDelimiter,
-  preview,
-  shuffleLayerConfigurations,
-  debugLogs,
-  extraMetadata,
-  pixelFormat,
-  text,
-  namePrefix,
-  network,
-  gif,
-  preview_gif,
 };
 ```
 
