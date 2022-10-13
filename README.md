@@ -58,7 +58,7 @@ The NFT layers are placed as folders in the `layers` directory. You can name the
 
 | Year | Amount | Price | 
 |-|-|-|
-|2022 | 898 |161.80 TON |
+|2022 | 898 |161.81 TON |
 | | | |
 
 ## Layers
