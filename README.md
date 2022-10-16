@@ -97,7 +97,7 @@ Type: linear Gradient
 
     500 Uniq Vortex 
     288 3D Diamond
-    100 Rare Vortex 
+    100 Rare Vortex  
     1   Diamond     4
     1   Drop        6
     1   Heart       3
@@ -108,6 +108,8 @@ Type: linear Gradient
     1   Sims        5
     1   Square      2
     1   CON         94
+
+    Total           898
 
 ### Allocation
 |Jetton|Address|
