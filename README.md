@@ -95,19 +95,19 @@ Type: linear Gradient
 ### Filament
 ![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/img/Vortex.png)
 
-    500 Uniq Vortex
+    500 Uniq Vortex 
     288 3D Diamond
-    100 Rare Vortex
-    1   Diamond
-    1   Drop
-    1   Heart
-    1   Kite
-    1   Octagon
-    1   Pentagon
-    1   Rhombus
-    1   Sims
-    1   Square
-    1   CON
+    100 Rare Vortex 
+    1   Diamond     4
+    1   Drop        6
+    1   Heart       3
+    1   Kite        8
+    1   Octagon     4
+    1   Pentagon    3
+    1   Rhombus     6
+    1   Sims        5
+    1   Square      2
+    1   CON         94
 
 ### Allocation
 |Jetton|Address|
@@ -229,8 +229,6 @@ TON CON Ecosystem: [EQBWNJIrRO6C4zqEcglJdVLQczkNTbmDmBAsZgZjgocrHwfe](ton://tran
 Content `ipfs://bafybeihob5aflt3hknzi77fslaeizecfdubhitmclgjjakpcqkyzoht2vm/`
 
 Metadata `ipfs://bafkreic2jvoey7yx3uj4cv3w42al3yjixw32jbsxtvazdv7fngscvl2z5u/?filename=metadata.json`
-
-
 
 ## License
 [Creative Commons Zero v1.0 Universal](/LICENSE)
