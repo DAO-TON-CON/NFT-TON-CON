@@ -90,7 +90,7 @@ Type: linear Gradient
     Orange
     Red
     Royal Blue
-    White
+    White 
 
 ### Filament
 ![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/img/Vortex.png)
