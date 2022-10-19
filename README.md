@@ -3,7 +3,7 @@
 
 This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 and Metaverse era as digital information on the Open Web in Meta TON CON 2022.
 
-[TON CON NFT Collection](https://getgems.io/collection/EQCOEa8iUcBeV0v-_4Hg0-_3t3c9ypRScZ_lhqSdIgqcp2wh)
+GetGems [TON CON NFT Collection](https://getgems.io/collection/EQCOEa8iUcBeV0v-_4Hg0-_3t3c9ypRScZ_lhqSdIgqcp2wh)
 
 ## TON CON 2022
 __TON CON 2022 will take place on November 12-13.__ 
@@ -93,11 +93,11 @@ Type: linear Gradient
     White 
 
 ### Filament
-![Vortex](https://github.com/DAO-TON-CON/NFT-TON-CON/blob/main/img/Vortex.png)
+![Vortex](/img/Vortex.png)
 
-    500 Uniq Vortex 
-    288 3D Diamond
-    100 Rare Vortex  
+    500 Uniq Vortex 500
+    288 3D Diamond  288
+    100 Rare Vortex 100
     1   Diamond     4
     1   Drop        6
     1   Heart       3
@@ -112,6 +112,7 @@ Type: linear Gradient
     Total           898
 
 ### Allocation
+
 |Jetton|Address|
 |-|-|
 | Donation | [EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR](ton://EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR)|
